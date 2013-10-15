@@ -1,4 +1,5 @@
 pattern-pos-detector
 ====================
-
-Given a pattern and a DNA String, return all start position where it's found.
+Pattern Matching Problem: Find all occurrences of a pattern in a string.
+Input: Two strings, Pattern and Genome.
+Output: All starting positions where Pattern appears as a substring of Genome.
